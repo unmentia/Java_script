@@ -1,0 +1,1 @@
+// x va n ketma ketligi
